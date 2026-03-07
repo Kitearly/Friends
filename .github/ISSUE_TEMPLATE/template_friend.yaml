@@ -32,8 +32,8 @@ body:
         请在下方的 `JSON` 块中填写，字段说明：
         - title: 友链标题
         - url: 友链地址
-        - icon: 网站图标（建议留空，博客会用API自动更新图标）
-        - snapshot: 网站截图（建议留空，博客会用API自动更新网站实时截图）
+        - icon: 网站图标（建议使用API自动更新图标，将占位符改为博客地址即可）
+        - snapshot: 网站截图（建议使用API自动更新图标，将占位符改为博客地址即可）
         - description: 一句话简介（字数过多的情况下可能会酌情进行精简）
         - feed: 订阅地址（用于抓取并显示最新文章，没有 feed 地址时，排序会靠后）
         -->
@@ -42,8 +42,8 @@ body:
         {
             "title": "",
             "url": "",
-            "icon": "",
-            "snapshot": "",
+            "icon": "https://careful.fyi/api/favicon/?url=[占位符]",
+            "snapshot": "https://careful.fyi/api/screenshot/?url=[占位符]",
             "description": "",
             "feed": ""
         }

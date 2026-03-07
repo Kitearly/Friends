@@ -1,0 +1,86 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "谨言慎行",
+      "url": "https://careful.fyi/",
+      "icon": "https://careful.fyi/api/favicon/?url=https://careful.fyi",
+      "snapshot": "https://careful.fyi/api/screenshot/?url=https://careful.fyi",
+      "description": "分享技术、新知、生活中的琐碎日常。",
+      "feed": "https://careful.fyi/atom.xml",
+      "posts": [
+        {
+          "title": "使用CloudFlare Workers搭建网页截图API",
+          "link": "https://careful.fyi/posts/1772432122/",
+          "published": "2026-03-02 14:15"
+        },
+        {
+          "title": "给博客添加一个自动更新基金持仓盈亏的页面",
+          "link": "https://careful.fyi/posts/1752563214/",
+          "published": "2025-07-15 15:06"
+        },
+        {
+          "title": "绿联云Docker默认的Bridge网络开启IPv6",
+          "link": "https://careful.fyi/posts/1743759016/",
+          "published": "2025-04-04 17:30"
+        }
+      ],
+      "issue_number": 1,
+      "labels": []
+    },
+    {
+      "title": "Thun888",
+      "url": "https://blog.hzchu.top",
+      "icon": "https://careful.fyi/api/favicon/?url=https://blog.hzchu.top",
+      "snapshot": "https://careful.fyi/api/screenshot/?url=https://blog.hzchu.top",
+      "description": "夏日当空，心如深渊。",
+      "feed": "https://blog.hzchu.top/atom.xml",
+      "posts": [
+        {
+          "title": "解决一些笔记本电脑更换主板后的问题",
+          "link": "https://blog.hzchu.top/2026/solve-laptop-motherboard-problems/",
+          "published": "2026-02-27 05:18"
+        },
+        {
+          "title": "手动编译耗子面板安装的OpenResty",
+          "link": "https://blog.hzchu.top/2026/haozi-openresty-build/",
+          "published": "2026-02-26 19:41"
+        },
+        {
+          "title": "使用SAM3模型对视频元素动态打码",
+          "link": "https://blog.hzchu.top/2026/sam3-blur-video/",
+          "published": "2026-02-26 06:48"
+        }
+      ],
+      "issue_number": 3,
+      "labels": []
+    },
+    {
+      "title": "南柯一梦",
+      "url": "https://www.nkmon.com",
+      "icon": "https://careful.fyi/api/favicon/?url=https://www.nkmon.com",
+      "snapshot": "https://careful.fyi/api/screenshot/?url=https://www.nkmon.com",
+      "description": "藏在字里的山河与旧梦。",
+      "feed": "https://www.nkmon.com/feed",
+      "posts": [
+        {
+          "title": "岁末絮语：在变动里找平衡，在探索中慢慢前行",
+          "link": "https://www.nkmon.com/archives/386.html",
+          "published": "2025-12-31 15:02"
+        },
+        {
+          "title": "从 13 Pro 换到 17 Pro Max，苹果终于把 “短板” 补全了",
+          "link": "https://www.nkmon.com/archives/365.html",
+          "published": "2025-10-20 10:12"
+        },
+        {
+          "title": "国庆回家：时光慢淌在问候里",
+          "link": "https://www.nkmon.com/archives/321.html",
+          "published": "2025-10-05 23:26"
+        }
+      ],
+      "issue_number": 2,
+      "labels": []
+    }
+  ]
+}
